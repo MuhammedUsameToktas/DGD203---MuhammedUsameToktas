@@ -1,0 +1,14 @@
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\bin\Debug\net8.0\DGD203-MuhammedUsameToktas.exe
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\bin\Debug\net8.0\DGD203-MuhammedUsameToktas.deps.json
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\bin\Debug\net8.0\DGD203-MuhammedUsameToktas.runtimeconfig.json
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\bin\Debug\net8.0\DGD203-MuhammedUsameToktas.dll
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\bin\Debug\net8.0\DGD203-MuhammedUsameToktas.pdb
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\obj\Debug\net8.0\DGD203-MuhammedUsameToktas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\obj\Debug\net8.0\DGD203-MuhammedUsameToktas.AssemblyInfoInputs.cache
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\obj\Debug\net8.0\DGD203-MuhammedUsameToktas.AssemblyInfo.cs
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\obj\Debug\net8.0\DGD203-MuhammedUsameToktas.csproj.CoreCompileInputs.cache
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\obj\Debug\net8.0\DGD203-MuhammedUsameToktas.dll
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\obj\Debug\net8.0\refint\DGD203-MuhammedUsameToktas.dll
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\obj\Debug\net8.0\DGD203-MuhammedUsameToktas.pdb
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\obj\Debug\net8.0\DGD203-MuhammedUsameToktas.genruntimeconfig.cache
+C:\Users\isu\Desktop\MUT_VS\MUT_GP1_Car_Assinment1\obj\Debug\net8.0\ref\DGD203-MuhammedUsameToktas.dll

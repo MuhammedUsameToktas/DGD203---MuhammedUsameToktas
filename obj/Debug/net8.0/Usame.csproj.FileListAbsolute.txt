@@ -1,0 +1,14 @@
+C:\Users\W11\Desktop\usame ödev\Usame\bin\Debug\net8.0\Usame.exe
+C:\Users\W11\Desktop\usame ödev\Usame\bin\Debug\net8.0\Usame.deps.json
+C:\Users\W11\Desktop\usame ödev\Usame\bin\Debug\net8.0\Usame.runtimeconfig.json
+C:\Users\W11\Desktop\usame ödev\Usame\bin\Debug\net8.0\Usame.dll
+C:\Users\W11\Desktop\usame ödev\Usame\bin\Debug\net8.0\Usame.pdb
+C:\Users\W11\Desktop\usame ödev\Usame\obj\Debug\net8.0\Usame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11\Desktop\usame ödev\Usame\obj\Debug\net8.0\Usame.AssemblyInfoInputs.cache
+C:\Users\W11\Desktop\usame ödev\Usame\obj\Debug\net8.0\Usame.AssemblyInfo.cs
+C:\Users\W11\Desktop\usame ödev\Usame\obj\Debug\net8.0\Usame.csproj.CoreCompileInputs.cache
+C:\Users\W11\Desktop\usame ödev\Usame\obj\Debug\net8.0\Usame.dll
+C:\Users\W11\Desktop\usame ödev\Usame\obj\Debug\net8.0\refint\Usame.dll
+C:\Users\W11\Desktop\usame ödev\Usame\obj\Debug\net8.0\Usame.pdb
+C:\Users\W11\Desktop\usame ödev\Usame\obj\Debug\net8.0\Usame.genruntimeconfig.cache
+C:\Users\W11\Desktop\usame ödev\Usame\obj\Debug\net8.0\ref\Usame.dll
